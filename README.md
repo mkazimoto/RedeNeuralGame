@@ -6,6 +6,8 @@ Entradas:
 * Posição do jogador
 * Posição da bola
 * Direção da bola
+
+  
 Saídas:
 * Direita
 * Esquerda 
